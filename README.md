@@ -1,11 +1,25 @@
-# Rango + Margo Demo
+# Lupa Club Demo
 
-Demo web estatica para validar una plataforma de inteligencia de precios, proveedores, margenes y logistica para pymes.
+Demo web estatica para validar una idea que combina IA de ahorro local y club de beneficios.
 
-Incluye landing responsive, comparador de proveedores, mercado local demo, cotizador, chat de Margo IA, modal comercial, exportacion JSON e impresion.
+## Concepto
 
-Los precios, scores, entregas y ahorros son simulados para mostrar el funcionamiento del producto.
+El usuario carga zona, medios de pago y tipo de compra. Lupa compara combinaciones de precio, promo, distancia y comercios del club para mostrar donde conviene comprar y cuanto puede ahorrar.
+
+## Incluye
+
+- Landing premium responsive.
+- Simulador de ahorro para Cordoba y CABA.
+- Club de beneficios con comercios destacados.
+- Flujo simple de changuito, tarjetas y preferencia.
+- Modal de lista de espera.
+- Boton para copiar consulta tipo WhatsApp.
+- Boton para copiar pitch comercial.
+
+## Nota
+
+Los precios, comercios, distancias y ahorros son simulados para validar la experiencia.
 
 ## Deploy en Vercel
 
-Importar este repositorio en Vercel como proyecto estatico. No requiere framework ni build command.
+Importar este repositorio como proyecto estatico. No requiere framework ni build command.
